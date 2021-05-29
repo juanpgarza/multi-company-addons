@@ -1,0 +1,4 @@
+partner_multi_company_default/__pycache__/*.pyc
+partner_multi_company_default/models/__pycache__/*.pyc
+product_multi_company_default/__pycache__/*.pyc
+product_multi_company_default/models/__pycache__/*.pyc
